@@ -8,7 +8,8 @@ It's basically to scare people off or just make people amazed how you stopped a 
 Debian - family based OS and Termux (Android)
 
 You can copy the link here 
-> http://github.com/SUFandom/Elclair
-
+```
+ http://github.com/SUFandom/Elclair
+```
 
 
