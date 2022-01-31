@@ -16,4 +16,12 @@ Or the command if you're lazy
 git clone https://github.com/SUFandom/Elclair 
 ```
 
+Then after executing Git Clone, do this (for Debian)
+```
+chmod +x deb-install.sh
+```
 
+Termux
+```
+chmod +x trmx-install.sh
+```
