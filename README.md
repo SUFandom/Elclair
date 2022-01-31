@@ -12,6 +12,8 @@ You can copy the link here
  http://github.com/SUFandom/Elclair
 ```
 Or the command if you're lazy
-``` git clone https://github.com/SUFandom/Elclair```
+``` 
+git clone https://github.com/SUFandom/Elclair 
+```
 
 
