@@ -17,20 +17,27 @@ command sudo apt install figlet doas nano mpv wget -y
 #nano is for Editing the Script
 #Wget purpose is for the Payload.sh script
 
+#This area will try to make the script have main Bash acess
+# =>
+command chmod +x debian/engine.sh
+command chmod +x debian/mpv.sh
+command chmod +x start-deb.sh
+command chmod +x uninstall-deb-experimental.sh
+command chmod +x uninstall-debian.sh
+#command chmod +x payload.sh
+
+
+
 #After its done. Moving Process Will begin
 # =>
 command mv /debian/engine.sh /home/$PREFIX/
 command mv start-deb.sh /home/$PREFIX/
 command mv /debian/mpv.sh /home/$PREFIX/
+command mv uninstall-deb-experimental.sh /home/$PREFIX/
+command mv uninstall-debian.sh /home/$PREFIX
 #command mv /debian/payload.sh /home/$PREFIX/
 
 
-#This area will try to make the script have main Bash acess
-# =>
-command chmod +x engine.sh
-command chmod +x mpv.sh
-command chmod +x start-deb.sh
-#command chmod +x payload.sh
 
 command echo "Done"
 

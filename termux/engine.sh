@@ -14,5 +14,5 @@ command ./termux/engine.sh
 
 #Additional Commands here. (Optional and suggest that it should be harmless.)
 
-#command cp engine.sh /sdcard
+
 
