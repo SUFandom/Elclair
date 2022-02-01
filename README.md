@@ -6,7 +6,9 @@ To make a user friendly  CLI - Command Line Interface, Debian Bassed and Termux.
 
 ## What Changed From V.1?
 Version 1 Has some script Layout Issues
-the Chmod was behind from mv, so chmod wouldn't work, changing Layout Fixed it under version 2. Fist Bug Release Fix, but found by me only
+the Chmod was behind from mv, so chmod wouldn't work, changing Layout Fixed it under version 2. Fist Bug Release Fix, but found by me only.
+
+
 Added New uninstallers that experimental (60% Running on Whiptail) that may break, Fix is coming soon
 
 ## SO.... What can I do with this?
