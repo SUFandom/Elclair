@@ -2,6 +2,13 @@
 #The script will install via this script
 # => Means that there may be needing some modifications
 
+
+command clear
+command echo "Elclair v.2.1_rel"
+command echo "Initializing"
+command sleep 5
+command clear
+
 command apt update && apt upgrade -y
 command apt install figlet nano -y
 command apt install whiptail -y
