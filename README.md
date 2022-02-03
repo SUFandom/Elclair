@@ -4,12 +4,10 @@ A Script Prank to scare off normal Linux Users, effects can be reversed
 ## Version 2 with whiptail Support Added
 To make a user friendly  CLI - Command Line Interface, Debian Bassed and Termux. no plans to go X Window Soon
 
-## Minor Fix in 2.1
+## Final Version is here
 
-I have added an Uninstaller script, on Termux with full flexibility (sorta) on Whiptail!!
+This is the final version, Im working on a huge project now. Also this adds a new thank_you.bf file and some improvements on Termux Side.
 
-
-Added New uninstallers that experimental (60% Running on Whiptail) that may break, Fix is coming soon
 
 ## SO.... What can I do with this?
 It's basically to scare people off or just make people amazed how you stopped a threat.. by pretending that this was a malware
