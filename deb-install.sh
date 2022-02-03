@@ -2,12 +2,15 @@
 #This script has only a 20% Sucession Rate, you can improve it here
 # "=>" means that this needs some modifications
 
+#This area is just a global variable set area
+PREFIX=$USER
+
 command uname -a
 command echo "Installing Elclair Script"
 command sleep 4
 command echo "Elair Script is a Pranking Script made to panic a General User. this script can be easily deleted by a Geek"
 command sleep 3
-command echo "v.2.1_rel"
+command echo "v.2.2_rel"
 
 #Script ends intro and starts to invade
 #It needed a Sudo permission, Users who try to modify this part to use the Sudo Exploit should refrain from doing it

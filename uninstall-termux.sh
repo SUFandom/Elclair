@@ -1,13 +1,13 @@
 #!/data/data/com.termux/files/usr/bin/bash
 #A Dialog Based script to Remove Elclair
-#2.1_rel
+#2.2_rel
 # "=>" Means, this needs some modifications if not working
 #This script is Using Whiptail CLI (ARM)
 
 #Part 1 Sector
 
 command clear 
-command echo "v.2.1-rel"
+command echo "v.2.2-rel"
 command sleep 5
 command echo "Initiating Elclair Uninstaller (ARM)"
 command sleep 3

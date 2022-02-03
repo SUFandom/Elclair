@@ -3,7 +3,7 @@
 # => - Means there will be a need of modifications by the User
 
 #This First Line will try to Remove the Script
-command echo "Version 2.1_rel"
+command echo "Version 2.2_rel"
 command sleep 3
 command echo "Removing Core Script"
 command sleep 3

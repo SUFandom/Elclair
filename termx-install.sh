@@ -4,7 +4,7 @@
 
 
 command clear
-command echo "Elclair v.2.1_rel"
+command echo "Elclair v.2.2_rel"
 command echo "Initializing"
 command sleep 5
 command clear
@@ -21,5 +21,5 @@ command chmod +x start-trmx.sh
 # =>
 command echo "Starting"
 command sleep 5
-command  whiptail --title "Elclair Termux Suite" --msgbox "This script will try to execute the script, Press OK to continue" 8 78
+command  whiptail --title "Elclair Termux Suite" --msgbox "This script will try to execute the script, Press OK to continue  (Installer exited with Code $?)" 8 78
 command ./start-trmx.sh

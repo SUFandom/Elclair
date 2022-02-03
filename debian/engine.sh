@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script will try to execute, you can change anything here if something is going weong
-#Version 2.1_rel
+#Version 2.2_rel
 command figlet "You are an IDIOT"
 command echo "YOU ARE AN IDIOT"
 command figlet -f lean "YOU ARE AN IDIOT"
